@@ -23,3 +23,8 @@ xz
 xc
 zx
 z
+now
+lets
+do
+ras
+testing
